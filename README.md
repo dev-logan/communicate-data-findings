@@ -1,7 +1,3 @@
-# (Dataset Exploration Title)
-## by (your name here)
-
-
 ## Dataset
 
 Ford GoBike system data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The rental start time and return time are recorded, and 'duration_sec' is calculated. There is information about 'start station' and 'end station' respectively. It also includes the bicycle ID and information about the user who used it. There is information on whether each user uses a service called 'bike share for all'.
